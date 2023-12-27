@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>Task Master</title>
+
+{% endblock %}
+
+{% block body %}
+
+<div class="content">
+    <h1 style="text-align: center">Update Task</h1>
+
+    {% with messages = get_flashed_messages() %}
+        {% if messages %}
+            <ul>
+                {% for message in messages %}
+                    <li style="color: {% if 'error' in message %}red{% elif 'success' in message %}green{% else %}black{% endif %}">{{ message }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+    {% endwith %}
+
+    <form action="/update/{{ task.id }}" method="post">
+        <input type="text" name="content" id="content" value="{{ task.content }}">
+        <input type="submit" value="Update task">
+    </form>
+    <a href="{{ url_for('index') }}">Back to Home</a>
+</div>
+
+{% endblock %}
