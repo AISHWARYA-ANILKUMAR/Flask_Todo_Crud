@@ -10,7 +10,7 @@ Task Master is a Flask-based web application for simple task management. Users c
 2. ADDING NEW TASK
    
 ![image](https://github.com/AISHWARYA-ANILKUMAR/Flask_Todo_Crud/assets/106093984/b77bc9df-5681-470c-bae6-8911223052ab)
-15f91b0b)
+
 
 
 3.TASKS ADDED
