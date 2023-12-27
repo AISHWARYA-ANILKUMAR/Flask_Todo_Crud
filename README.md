@@ -3,19 +3,33 @@ Task Master is a Flask-based web application for simple task management. Users c
 
 
 1. ADD TASK 
-![img1_notask_add_below](https://github.com/AISHWARYA-ANILKUMAR/Flask_Todo_Crud/assets/106093984/bc3ab647-c483-4ef9-b0ca-2167a6b9d0ef)
+
+![image](https://github.com/AISHWARYA-ANILKUMAR/Flask_Todo_Crud/assets/106093984/81bc9aa6-00ad-4cac-a401-7852d9c789eb)
+
 
 2. ADDING NEW TASK
-![img2_task_added](https://github.com/AISHWARYA-ANILKUMAR/Flask_Todo_Crud/assets/106093984/c5b3ffa0-b94b-440e-9b62-7b9815f91b0b)
+   
+![image](https://github.com/AISHWARYA-ANILKUMAR/Flask_Todo_Crud/assets/106093984/b77bc9df-5681-470c-bae6-8911223052ab)
+15f91b0b)
+
 
 3.TASKS ADDED
-![img3_added_may_tasks](https://github.com/AISHWARYA-ANILKUMAR/Flask_Todo_Crud/assets/106093984/c4944a1d-a479-4424-9984-bef8d4beffff)
+
+![image](https://github.com/AISHWARYA-ANILKUMAR/Flask_Todo_Crud/assets/106093984/032da8fa-03d4-4d45-a3ae-38cbe0df2ac9)
+
+
 
 4. DELETE A TASK
-![img4_deleted_a_task](https://github.com/AISHWARYA-ANILKUMAR/Flask_Todo_Crud/assets/106093984/28dc0c35-5466-4c41-b937-b6bdad1e7494)
+   
+![image](https://github.com/AISHWARYA-ANILKUMAR/Flask_Todo_Crud/assets/106093984/98f37952-ffbf-4bbc-852f-5eb1a6d1b865)
+
+
 
 5.UPDATE A TASK
-![img5_updating_task](https://github.com/AISHWARYA-ANILKUMAR/Flask_Todo_Crud/assets/106093984/baf5e6e5-664f-410f-af01-5d87444b0a98)
+
+![image](https://github.com/AISHWARYA-ANILKUMAR/Flask_Todo_Crud/assets/106093984/31b14286-8be4-4fe7-bf30-2450f1d4afa1)
+
 
 6.TASK UPDATED
-![img6_task_updated](https://github.com/AISHWARYA-ANILKUMAR/Flask_Todo_Crud/assets/106093984/301ef606-7ea7-40ac-98de-6e9016e751ec)
+
+![image](https://github.com/AISHWARYA-ANILKUMAR/Flask_Todo_Crud/assets/106093984/b69c9bbb-061e-4aca-9b09-b02d20086550)
